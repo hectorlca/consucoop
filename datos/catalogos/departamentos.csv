@@ -1,0 +1,19 @@
+﻿id,codigo,nombre,region
+1,AT,Atlántida,Norte
+2,CO,Colón,Norte
+3,CM,Comayagua,Centro
+4,CP,Copán,Occidente
+5,CR,Cortés,Norte
+6,CH,Choluteca,Sur
+7,EP,El Paraíso,Sur
+8,FM,Francisco Morazán,Centro
+9,GD,Gracias a Dios,Mosquitia
+10,IN,Intibucá,Occidente
+11,IB,Islas de la Bahía,Insular
+12,LP,La Paz,Centro
+13,LE,Lempira,Occidente
+14,OC,Ocotepeque,Occidente
+15,OL,Olancho,Oriente
+16,SB,Santa Bárbara,Occidente
+17,VA,Valle,Sur
+18,YO,Yoro,Norte

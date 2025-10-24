@@ -1,0 +1,98 @@
+﻿id,codigo,nombre,departamento_id,poblacion
+1,AT01,La Ceiba,1,16592
+2,AT02,Tela,1,5278
+3,AT03,Jutiapa,1,38048
+4,AT04,La Masica,1,34098
+5,AT05,Arizona,1,31256
+6,AT06,El Porvenir,1,20289
+7,CO01,Trujillo,2,15434
+8,CO02,Tocoa,2,73482
+9,CO03,Sonaguera,2,13395
+10,CO04,Saba,2,79397
+11,CO05,Limón,2,57302
+12,CO06,Bonito Oriental,2,6165
+13,CM01,Comayagua,3,5905
+14,CM02,Siguatepeque,3,14280
+15,CM03,La Libertad,3,30657
+16,CM04,Ajuterique,3,32495
+17,CM05,El Rosario,3,68237
+18,CP01,Santa Rosa de Copán,4,5478
+19,CP02,La Entrada,4,75563
+20,CP03,Florida,4,28062
+21,CP04,Dolores,4,73426
+22,CP05,San Pedro,4,56987
+23,CP06,Corquín,4,30893
+24,CR01,San Pedro Sula,5,122757
+25,CR02,Choloma,5,79236
+26,CR03,La Lima,5,38463
+27,CR04,Villanueva,5,2851
+28,CR05,Puerto Cortés,5,22926
+29,CR06,Omoa,5,57392
+30,CR07,Pimienta,5,46597
+31,CH01,Choluteca,6,38421
+32,CH02,Marcovia,6,22379
+33,CH03,El Triunfo,6,30221
+34,CH04,Pespire,6,46118
+35,CH05,San Marcos de Colón,6,15396
+36,EP01,Yuscarán,7,14156
+37,EP02,Danlí,7,51797
+38,EP03,El Paraíso,7,14676
+39,EP04,Alauca,7,49052
+40,EP05,Trojes,7,47082
+41,EP06,Morocelí,7,36671
+42,FM01,Tegucigalpa,8,216583
+43,FM02,Comayagüela,8,7695
+44,FM03,Valle de Ángeles,8,62217
+45,FM04,Santa Lucía,8,72284
+46,FM05,Ojojona,8,18361
+47,FM06,Talanga,8,51615
+48,GD01,Puerto Lempira,9,12328
+49,GD02,Brus Laguna,9,74357
+50,GD03,Ahuas,9,40427
+51,GD04,Wampusirpe,9,49400
+52,IN01,La Esperanza,10,77674
+53,IN02,Intibucá,10,27203
+54,IN03,Jesús de Otoro,10,11116
+55,IN04,Yamaranguila,10,8006
+56,IN05,San Juan,10,31871
+57,IB01,Roatán,11,39930
+58,IB02,Utila,11,12458
+59,IB03,Guanaja,11,32512
+60,IB04,José Santos Guardiola,11,15238
+61,LP01,La Paz,12,51823
+62,LP02,Marcala,12,38434
+63,LP03,Cane,12,61429
+64,LP04,Santa Elena,12,49819
+65,LP05,San Pedro de Tutule,12,23319
+66,LE01,Gracias,13,50520
+67,LE02,La Iguala,13,48566
+68,LE03,Erandique,13,29460
+69,LE04,San Manuel Colohete,13,36993
+70,LE05,Belén,13,11358
+71,OC01,Ocotepeque,14,24431
+72,OC02,Sinuapa,14,72010
+73,OC03,La Encarnación,14,34087
+74,OC04,Concepción,14,23417
+75,OC05,San Marcos,14,62589
+76,OL01,Juticalpa,15,51735
+77,OL02,Catacamas,15,37382
+78,OL03,Gualaco,15,75000
+79,OL04,San Francisco de la Paz,15,30785
+80,OL05,Salamá,15,44504
+81,SB01,Santa Bárbara,16,9331
+82,SB02,Quimistán,16,32021
+83,SB03,Arada,16,6207
+84,SB04,Macuelizo,16,43347
+85,SB05,Ilama,16,54581
+86,SB06,Las Vegas,16,37093
+87,VA01,Nacaome,17,10675
+88,VA02,San Lorenzo,17,29653
+89,VA03,Amapala,17,76341
+90,VA04,Aramecina,17,43245
+91,VA05,Langue,17,29869
+92,YO01,Yoro,18,67435
+93,YO02,El Progreso,18,53856
+94,YO03,Olanchito,18,62142
+95,YO04,Morazán,18,20726
+96,YO05,Yorito,18,36718
+97,YO06,Victoria,18,20301
