@@ -1,0 +1,118 @@
+=======================================================================
+  DASHBOARD CONSUCOOP - INSTRUCCIONES DE APERTURA
+=======================================================================
+
+OPCIÓN 1: SERVIDOR LOCAL (RECOMENDADO)
+---------------------------------------
+
+1. Abre PowerShell o CMD
+
+2. Navega a la carpeta mvp:
+   cd "C:\Users\ARS\Documents\moe-ue\consu\mvp"
+
+3. Ejecuta servidor Python:
+   python -m http.server 8000
+
+4. Abre navegador y ve a:
+   http://localhost:8000
+
+5. ¡Listo! El dashboard debería cargar automáticamente
+
+
+OPCIÓN 2: VS CODE LIVE SERVER
+------------------------------
+
+1. Abre VS Code
+
+2. Abrir carpeta: consu/mvp
+
+3. Click derecho en index.html
+
+4. Selecciona "Open with Live Server"
+
+5. ¡Listo! Se abrirá automáticamente en navegador
+
+
+OPCIÓN 3: FIREFOX (Permite file://)
+------------------------------------
+
+1. Abre Firefox
+
+2. Arrastra index.html al navegador
+   O File → Open File → selecciona index.html
+
+3. ¡Listo! Debería funcionar sin servidor
+
+
+VERIFICACIÓN
+------------
+
+Si todo está bien, deberías ver:
+
+✓ Header con logo CONSUCOOP
+✓ Sidebar con navegación (4 vistas)
+✓ 6 KPIs con números grandes
+✓ 3 gráficos en la portada ejecutiva
+✓ Mensaje "Cargando datos..." al inicio (desaparece rápido)
+
+Si ves errores o los gráficos no aparecen:
+- Abre consola del navegador (F12)
+- Busca mensajes de error en rojo
+- Verifica que los CSVs estén en ../datos/
+
+
+NAVEGACIÓN
+----------
+
+Usa el sidebar izquierdo para cambiar entre vistas:
+
+📊 Portada Ejecutiva   → KPIs y resumen general
+💳 Cartera de Créditos → Análisis de créditos por género
+👥 Diversidad          → Brecha de género en cooperativas
+🗺️  Análisis Geográfico → Mapa y distribución departamental
+
+
+CARACTERÍSTICAS INTERACTIVAS
+-----------------------------
+
+• Pasa el mouse sobre los gráficos → Tooltips con valores
+• Click en vistas del sidebar → Cambia de vista
+• Los números en KPIs son calculados de datos reales
+• Los gráficos se generan dinámicamente
+
+
+TROUBLESHOOTING
+---------------
+
+❌ Error: "Cannot read file..."
+   → Solución: Usa OPCIÓN 1 (servidor local)
+
+❌ Gráficos no aparecen
+   → Solución: Abre consola (F12), busca errores
+   → Verifica que Chart.js se cargó
+
+❌ Muy lento
+   → Solución: Normal la primera vez (carga 279K registros)
+   → Debería tomar 2-3 segundos
+
+
+PARA PRESENTACIÓN
+-----------------
+
+1. Abre el dashboard
+2. Presiona F11 para pantalla completa
+3. Navega por las vistas durante demo
+4. Presiona F11 de nuevo para salir
+
+
+CONTACTO
+--------
+
+Si tienes problemas, revisa:
+• mvp/README.md
+• MVP_ENTREGA.md (en carpeta padre)
+
+
+=======================================================================
+  ¡Dashboard listo para demostración!
+=======================================================================
